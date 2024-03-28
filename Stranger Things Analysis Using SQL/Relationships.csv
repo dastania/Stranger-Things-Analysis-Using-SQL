@@ -1,0 +1,9 @@
+relationship_id,character1_id,character2_id,relationship_type
+1,1,2,"Close Friends"
+2,1,7,"Adoptive Father and Daughter"
+3,2,3,Friends
+4,3,4,Friends
+5,5,6,"Mother and Son"
+6,6,9,Siblings
+7,9,10,"Romantic Relationship"
+8,4,8,Friends

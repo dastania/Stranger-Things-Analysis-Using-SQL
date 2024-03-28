@@ -1,0 +1,9 @@
+location_id,name,type,description,latitude,longitude
+1,"Hawkins High School",School,"The local high school attended by the main characters.",40.040100,-82.462900
+2,"Starcourt Mall",Mall,"The central mall in Hawkins with various shops and events.",40.050200,-82.461100
+3,"Hawkins National Laboratory",Laboratory,"A secretive government facility where experiments take place.",40.052000,-82.465200
+4,"Hawkins Public Library",Library,"A public library used for research and information gathering.",40.045900,-82.462400
+5,"Byers House",Residence,"The home of the Byers family, central to many events.",40.047700,-82.464100
+6,"Wheeler House",Residence,"The home of the Wheeler family.",40.048200,-82.463000
+7,"Hopper's Cabin",Residence,"Jim Hopper's secluded cabin in the woods.",40.053100,-82.459800
+8,"Hawkins Community Pool",Pool,"A public pool where characters gather in Season 3.",40.046500,-82.461300

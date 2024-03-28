@@ -1,0 +1,9 @@
+monster_id,name,type,abilities
+1,Demogorgon,Demons,"Interdimensional travel, face-opening petal attack"
+2,"Mind Flayer","Eldritch Horror","Mind control, ability to possess creatures"
+3,Demodogs,Demons,"Ferocious, dog-like creatures under the Mind Flayer's control"
+4,"Shadow Monster","Eldritch Horror","Sentient, shadowy entity controlling the Mind Flayer"
+5,Thessalhydra,Demons,"Multi-headed creature mentioned in a Dungeons & Dragons game"
+6,"Mind Flayer (Baby)","Eldritch Horror","A smaller version of the Mind Flayer"
+7,"The Flayed",Humans,"Humans infected and controlled by the Mind Flayer"
+8,Polywog,Creatures,"A small, slug-like creature that evolves into a Demodog"
